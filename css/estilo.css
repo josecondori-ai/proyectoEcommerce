@@ -5,4 +5,5 @@ body{
 .hero{
     height: 80vh;
     background-color: brown;
+    font-size: 25px;
 }
